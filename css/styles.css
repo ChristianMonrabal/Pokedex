@@ -1,0 +1,84 @@
+.index {
+    background-image: url("../img/kantomap.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: 'Press Start 2P', cursive;
+    font-family: 'Quicksand', sans-serif;
+    font-family: 'Roboto Slab', serif;
+}
+
+.index a {
+    text-decoration: none;
+    color: black
+}
+
+
+/* Los elementos "a" que se encuentran dentro de un elemento con class index */
+
+#Subrayado {
+    background-color: red;
+    color: white;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    background-color: rgba(255, 0, 0, 2);
+    padding: 5px;
+    border-radius: 50px 0;
+}
+
+img {
+    width: 25%;
+}
+
+
+/* articuno.html */
+
+.articuno {
+    background-image: url(../img/fondo-articuno.jpg);
+    font-family: 'Quicksand', sans-serif;
+    font-family: 'Roboto Slab', serif;
+}
+
+.articuno a {
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    background-color: lightblue;
+    border-radius: 5px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+#Descripcion {
+    background-color: red;
+    color: white;
+}
+
+img {
+    width: 25%;
+}
+
+#fondoarticuno {
+    text-align: center;
+    color: black;
+}
+
+span {
+    background-color: darkcyan;
+    padding: 3px;
+}
+
+#descripcionarticuno {
+    color: white;
+    background-color: red;
+}
+
+#enlace {
+    text-align: center;
+}
